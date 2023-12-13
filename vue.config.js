@@ -1,5 +1,5 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
-  pablicPath: `/SPA-on-Vue/`,
+  publicPath: `/SPA-on-Vue/`,
   transpileDependencies: true
 })
